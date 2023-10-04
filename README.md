@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # go_good_checkin_api
 
 GoGoodCheckinApi - JavaScript client for go_good_checkin_api
@@ -135,3 +136,7 @@ Class | Method | HTTP request | Description
 
 Endpoints do not require authorization.
 
+=======
+# gogood_docs_checkin
+GoGood Checkins Docs
+>>>>>>> 14e99e8ecdbff16832766b8e0fc7ab4edc22397c
